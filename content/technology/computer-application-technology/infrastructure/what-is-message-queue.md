@@ -15,7 +15,7 @@ params:
 
 队列是一种「先进先出」数据结构。
 
-具体见的[《数据结构-队列》](../../computer-theory/data-structures-and-algorithms/queue.md)
+具体见的[《数据结构-队列》](../../computer-theory/data-structures-and-algorithms/stack-and-queue.md)
 
 ## 2 对于消息队列的理解
 

@@ -1,9 +1,9 @@
 baseURL: https://lyremelody.cn/
 languageCode: zh
 defaultContentLanguage: zh
-title: 格物修齐
+title: 产研管理笔记
 theme: "hugo-book"
-copyright: © 2024 lyremelody.cn All Rights Reserved
+copyright: © 2026 lyremelody.cn All Rights Reserved
 privacy_policy: https://lyremelody.cn/
 
 # Book configuration
@@ -24,18 +24,10 @@ markup:
 menu:
   # before: []
   after:
-    - name: "微信公众号"
-      url: "/wechat.png"
-      weight: 10
-      pre: <img src="/logo-mp.ico" class="book-icon" alt="" height="20" style="vertical-align:bottom"/>
     - name: "GitHub"
-      url: "https://github.com/lyremelody/spiritual-practice"
+      url: "https://github.com/lyremelody/architect-notes"
       weight: 11
       pre: <img src="/svg/github-mark.svg" class="book-icon" alt="" height="20" style="vertical-align:bottom"/>
-    - name: "LeetCode"
-      url: "https://leetcode.com/u/lyremelody/"
-      weight: 20
-      pre: <img src="/leetcode-192x192.png" class="book-icon" alt="" height="20" style="vertical-align:bottom"/>
     - name: "About"
       url: "https://github.com/lyremelody/lyremelody/blob/main/README.md"
       weight: 30
@@ -46,7 +38,7 @@ params:
   BookToC: true
   BookLogo: "logo.png"
   BookSection: "*"
-  BookRepo: https://github.com/lyremelody/spiritual-practice
+  BookRepo: https://github.com/lyremelody/architect-notes
   BookDateFormat: "2006-01-02"
   BookSearch: true
   BookComments: true

@@ -92,8 +92,8 @@ params:
 #### 搜索引擎(Search Engine)
 * [初识搜索引擎](./infrastructure/search-engine-20180427.md)
 * Elasticsearch
-  * [Elasticsearch Rally](./infrastructure/elasticsearch/elasticsearch-rally-20180123.md)
-  * [Elasticsearch 热温数据迁移验证](./infrastructure/elasticsearch/elasticsearch-hot-warm-20181211.md)
+  * [Elasticsearch Rally](./infrastructure/elasticsearch-rally-20180123.md)
+  * [Elasticsearch 热温数据迁移验证](./infrastructure/elasticsearch-hot-warm-20181211.md)
 * OpenSearch
 
 #### 通用人工智能(Artificial General Intelligence)

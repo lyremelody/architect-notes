@@ -22,16 +22,12 @@ markup:
     startLevel: 1
 
 menu:
-  # before: []
-  after:
-    - name: "GitHub"
-      url: "https://github.com/lyremelody/architect-notes"
-      weight: 11
-      pre: <img src="/svg/github-mark.svg" class="book-icon" alt="" height="20" style="vertical-align:bottom"/>
-    - name: "About"
-      url: "https://github.com/lyremelody/lyremelody/blob/main/README.md"
-      weight: 30
-      pre: <img src="/logo.png" alt="" height="20" style="vertical-align:bottom"/>
+  before: []
+  # after:
+  #  - name: "GitHub"
+  #    url: "https://github.com/lyremelody/architect-notes"
+  #    weight: 11
+  #    pre: <img src="/svg/github-mark.svg" class="book-icon" alt="" height="20" style="vertical-align:bottom"/>
 
 params:
   BookTheme: "light"
